@@ -44,7 +44,7 @@ The six models used for this project are as follow:
  
 4- # SMOTEENN
 
-![](/Images/SMOTEENN.PNG)
+![](/Images/SMOTEENN.png)
 
  - Balanced Accuracy Score: 63.92%
  - "High Risk" Rates: Precision Rate = 1% and the Sensitivity/ Recall = 70%.
