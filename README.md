@@ -17,7 +17,7 @@ The six models used for this project are as follow:
 
 1- # Naive Random Oversampling
 
-![](/Images/Naive_oversampling.PNG)
+![](/Images/Naive_Oversampling.png)
 
  - Balanced Accuracy Score: 65.73%
  - "High Risk" Rates: Precision Rate = 1% and the Sensitivity/ Recall = 71%.
@@ -26,7 +26,7 @@ The six models used for this project are as follow:
 
 2- # SMOTE
 
-![](/Images/SMOTE.PNG)
+![](/Images/SMOTE_Oversampling.png)
 
  - Balanced Accuracy Score: 66.22%
  - "High Risk" Rates: Precision Rate = 1% and the Sensitivity/ Recall = 63%.
@@ -35,7 +35,7 @@ The six models used for this project are as follow:
 
 3- # Undersampling with Clustercentroid
 
-![](/Images/Clustercentroids.PNG)
+![](/Images/Clustercentroids.png)
 
  - Balanced Accuracy Score: 54.42%
  - "High Risk" Rates: Precision Rate = 1% and the Sensitivity/ Recall = 69%.
@@ -52,7 +52,7 @@ The six models used for this project are as follow:
 
 5- BalancedRandomClassifier
 
-![](/Images/Balancedrandomforestclassifier.PNG)
+![](/Images/Balancedrandomforestclassifier.png)
 
  - Balanced Accuracy Score: 78.85%
  - "High Risk" Rates: Precision Rate = 3% and the Sensitivity/ Recall = 70%.
@@ -60,7 +60,7 @@ The six models used for this project are as follow:
  
 6- EasyEnsembleClassifier
 
-[](/Images/Easyensembleclassifier.PNG)
+[](/Images/Easyensembleclassifier.png)
 
  - Balanced Accuracy Score: 93.16%
  - "High Risk" Rates: Precision Rate = 9% and the Sensitivity/ Recall = 92%.
